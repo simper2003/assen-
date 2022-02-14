@@ -691,6 +691,6 @@ async def on_ready():
 
 
 keep_alive()
-bot.run("ODQ2NzY3Mzc3MDU1NzQ0MDQx.YK0Tkg.bOQKWuJhBXQNUP_WZTqBkWfbxNc")
+bot.run("")
 
 
